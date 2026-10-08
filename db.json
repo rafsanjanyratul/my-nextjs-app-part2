@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones12",
+      "price": 2499,
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Comfortable wireless headphones with clear sound and long battery life.",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3299,
+      "category": "Electronics",
+      "brand": "TechTime",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "description": "Modern smartwatch with fitness tracking, notifications and heart rate monitoring.",
+      "rating": 4.3,
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 1899,
+      "category": "Footwear",
+      "brand": "SportX",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Lightweight running shoes designed for everyday exercise and outdoor activities.",
+      "rating": 4.6,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 1599,
+      "category": "Accessories",
+      "brand": "UrbanCarry",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "description": "Stylish and durable backpack suitable for work, university and travel.",
+      "rating": 4.4,
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 2799,
+      "category": "Computer Accessories",
+      "brand": "KeyPro",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "description": "Responsive mechanical keyboard with comfortable keys for gaming and productivity.",
+      "rating": 4.7,
+      "stock": 20
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 650,
+      "category": "Thriller",
+      "rating": 4.5,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A psychological thriller about a woman who suddenly stops speaking after a shocking crime."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 550,
+      "category": "Self Help",
+      "rating": 4.8,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e",
+      "description": "A practical guide to building good habits and breaking bad ones through small changes."
+    },
+    {
+      "id": 3,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 450,
+      "category": "Fiction",
+      "rating": 4.7,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "description": "A young shepherd follows his dreams on a journey of self-discovery and adventure."
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 500,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+      "description": "A personal finance classic that explores different approaches to money, investing and wealth."
+    },
+    {
+      "id": 5,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 1200,
+      "category": "Programming",
+      "rating": 4.8,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "description": "A guide to writing readable, maintainable and professional software code."
+    },
+    {
+      "id": 6,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 700,
+      "category": "Finance",
+      "rating": 4.7,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d",
+      "description": "Explores how human behavior, emotions and psychology influence financial decisions."
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "price": 800,
+      "category": "Fantasy",
+      "rating": 4.9,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1621351183012-e2f9972dd9bf",
+      "description": "A young wizard discovers his magical heritage and begins his first year at Hogwarts."
+    },
+    {
+      "id": 8,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 600,
+      "category": "Productivity",
+      "rating": 4.6,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "A practical guide to focusing without distraction and producing valuable work."
+    },
+    {
+      "id": 9,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 480,
+      "category": "Motivation",
+      "rating": 4.5,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "description": "A classic personal development book focused on mindset, goals and achievement."
+    },
+    {
+      "id": 10,
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "price": 1100,
+      "category": "Programming",
+      "rating": 4.8,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "description": "Practical advice and techniques for becoming a better and more effective software developer."
+    }
+  ]
+}
